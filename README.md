@@ -1,7 +1,7 @@
 ## 重现环境
-window10 企业版 64位系统
-nodejs v10.16.3
-npm 6.9.0
+* macOS Mojave 10.14.4
+* nodejs v10.13.0
+* npm 6.9.0
 
 ## 重现步骤
 
